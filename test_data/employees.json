@@ -1,0 +1,70 @@
+[
+    {
+      "id": 1,
+      "name": "张三",
+      "age": 30,
+      "department": "技术部",
+      "salary": 15000,
+      "hire_date": "2020-01-15",
+      "position": "高级工程师",
+      "contact": {
+        "email": "zhangsan@example.com",
+        "phone": "13800138001"
+      },
+      "address": "北京市海淀区"
+    },
+    {
+      "id": 2,
+      "name": "李四",
+      "age": 28,
+      "department": "市场部",
+      "salary": 12000,
+      "hire_date": "2021-03-22",
+      "position": "市场专员",
+      "contact": {
+        "email": "lisi@example.com",
+        "phone": "13800138002"
+      },
+      "address": "上海市浦东新区"
+    },
+    {
+      "id": 3,
+      "name": "王五",
+      "age": 35,
+      "department": "人事部",
+      "salary": 13500,
+      "hire_date": "2019-05-10",
+      "position": "人力主管",
+      "contact": {
+        "email": "wangwu@example.com",
+        "phone": "13800138003"
+      },
+      "address": "广州市天河区"
+    },
+    {
+      "id": 4,
+      "name": "赵六",
+      "department": "财务部",
+      "salary": 16000,
+      "hire_date": "2018-11-05",
+      "position": "财务经理",
+      "contact": {
+        "email": "zhaoliu@example.com",
+        "phone": "13800138004"
+      },
+      "address": "深圳市南山区"
+    },
+    {
+      "id": 5,
+      "name": "钱七",
+      "age": 32,
+      "department": "技术部",
+      "salary": 14500,
+      "hire_date": "2020-07-18",
+      "position": "产品经理",
+      "contact": {
+        "email": "qianqi@example.com"
+      },
+      "address": "成都市高新区"
+    }
+  ]
